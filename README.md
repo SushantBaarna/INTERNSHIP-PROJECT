@@ -1,7 +1,7 @@
 # NLPify
 
 ## Deployment
-[Dempolyment Link](https://ashray22-course-recommendation-and-sentiment-analys-home-dy4vxs.streamlit.app/)
+[Dempolyment Link](https://sushantbaarna-internship-project-home-ddlmyd.streamlit.app/dw)
 
 
 ## About The Project
