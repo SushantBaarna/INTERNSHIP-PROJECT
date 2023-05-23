@@ -1,7 +1,7 @@
 # NLPify
 
 ## Deployment
-[Dempolyment Link](https://sushantbaarna-internship-project-home-ddlmyd.streamlit.app/dw)
+[Dempolyment Link](https://sushantbaarna-internship-project-home-ddlmyd.streamlit.app)
 
 
 ## About The Project
